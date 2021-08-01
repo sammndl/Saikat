@@ -1,0 +1,23 @@
+body{
+
+    background-color: lightblue;
+
+}
+.mainDiv{
+
+    flood-opacity: initial;
+    background-color: aliceblue;
+    border: dashed;
+    border-color: brown;
+}
+
+.mainDiv table{
+
+    align-items: center;
+
+}
+.mainDiv form{
+
+    align-content: center;
+
+}
